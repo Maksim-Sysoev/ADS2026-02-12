@@ -1,4 +1,4 @@
-package by.it.group551003.sysoev.lesson01;
+package by.it.group551003.sysoev;
 
 import org.junit.Test;
 
